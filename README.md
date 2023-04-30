@@ -1,3 +1,0 @@
-Black Haunts in the Anthropocene is turning 10! 
-
-For its birthday, I'm cleaning up and moving house...
