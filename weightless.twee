@@ -348,7 +348,7 @@ video {
 }
 
 .video-wrapper {
-  /* Telling our absolute positioned video to 
+  /* Telling our story thru an absolute positioned video to 
   be relative to this element */
   position: relative;
   width: 400px;
