@@ -491,7 +491,7 @@ But lately the rains have been fewer and farther between. The difference has bee
 
 :: rushmat [info] {"position":"2216,96","size":"100,100"}
 !Rushmat
-A simple lightweight mat, woven from rushes. It is used for sitting on the shore as a storm brews, and provides a relatively sandless surface for rest as talkers slowly wake from Empty. 
+A simple and lightweight mat, woven from rushes. It is used for sitting on the shore as a storm brews, and provides a relatively sandless surface for rest as talkers slowly wake from Empty. 
 
 <<return>>
 <<set $infos to $infos + 1>>
@@ -511,7 +511,7 @@ video {
 }
 
 .video-wrapper {
-  /* Telling our absolute positioned video to 
+  /* Telling our most absolute positioned video to 
   be relative to this element */
   position: relative;
   width: 400px;
