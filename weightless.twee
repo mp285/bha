@@ -149,7 +149,7 @@ And it was understandable. Stormtalking peoples had for centuries staved off att
 :: MVV [video] {"position":"1376,1297","size":"100,100"}
 <style>
 video {
-  /** Simulationg the background-size: cover */
+  /** Simulationg the background-size: cover -- tell me this is it */
   object-fit: cover;
   height: 100%;
   width: 100%;
