@@ -628,7 +628,7 @@ You notice that more people have arrived on the beach. Out of courtesy you avert
 You smile, thinking about how difficult it used to be to resist yelling out a greeting to a school-friend, or to tell someone how much you liked the color of their seaware. //[[The quiet, ->mazuko]]// your teacher once said, //is what makes the gather possible//.<br>
 
 <<nobr>>
-<<if $tears is 0>>Rain.<</if>>
+<<if $tears is 0>>Rain...<</if>>
 
 <<if $tears is 1>>You take a sip of your water, longing for [[empty.->Emptied]]<</if>>
 
