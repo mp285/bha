@@ -358,7 +358,7 @@ video {
   container */
   overflow: hidden;
 
-  /* Centering the oot oot container's content vertically 
+  /* Centering the oot poot container's content vertically 
   and horizontally */
   text-align: center;
   display: flex;
