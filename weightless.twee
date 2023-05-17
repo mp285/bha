@@ -355,7 +355,7 @@ video {
   height: 200px;
 
   /* Will not allow the video to overflow the 
-  container */
+  container oop */
   overflow: hidden;
 
   /* Centering the oot poot container's content vertically 
