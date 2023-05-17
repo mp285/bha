@@ -311,7 +311,7 @@ Double-click this passage to edit it.
 :: Taxi [transit] {"position":"1199,26","size":"100,100"}
 <div class="text-tt-dark">Settling into the vehicle's backseat, you immediately know you made the right choice. As you look out the window, you are convinced that people out on the streets all seem a little more buoyant, moving with more ease as they leave their jobs, close their shops, or otherwise get moving. 
 <br>
-Storm days are always special, of course, but the increasing intervals between rains put people on edge. Even though you have the backseat to yourself, you hold your bag tightly on your lap. <<nobr>><<if $infos is 0>>Falling into habit, you slowly review its contents. <</if>>
+Storm the days are always special, of course, but the increasing intervals between rains put people on edge. Even though you have the backseat to yourself, you hold your bag tightly on your lap. <<nobr>><<if $infos is 0>>Falling into habit, you slowly review its contents. <</if>>
 <<include [[listy]]>><<if $infos is 1>>Each item your hand touches brings a tiny bit of relief.<</if>><<if $infos gte 2>>You smile to yourself, catching yourself falling into your oldest habits. You have been carrying and checking your stormkit every day for weeks. Why imagine that something's missing now? As the sky darkens, your mood lifts.
 
 <br>
