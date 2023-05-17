@@ -355,7 +355,7 @@ video {
   height: 200px;
 
   /* Will not allow the video to overflow the 
-  container oop */
+  container oop please please*/
   overflow: hidden;
 
   /* Centering the oot poot container's content vertically 
@@ -374,7 +374,7 @@ video {
 
    <div class="text-tt">Your walk soon becomes a trot as you worry that you won't make it before the storm comes. Out the corner of your eye you see someone hustling out of a car across the street. <br>
 
-A taxi! Pivoting quickly away from the late afternoon sun, you dash into the street and across traffic, mindful that everyone, stormtalker or no, is likely distracted by the gathering clouds and falling pressure alerts. Thankfully, the driver is also heading to the shore, taking you as [[the day's final fare->Taxi]].</div>
+A taxi! Pivoting quickly now away from the late afternoon sun, you dash into the street and across traffic, mindful that everyone, stormtalker or no, is likely distracted by the gathering clouds and falling pressure alerts. Thankfully, the driver is also heading to the shore, taking you as [[the day's final fare->Taxi]].</div>
 
 
 :: add this song to playlist {"position":"103,891","size":"100,100"}
