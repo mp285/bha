@@ -1,5 +1,5 @@
 :: StoryTitle
-weightless
+weightless also because because beca
 
 
 :: StoryData
@@ -32,7 +32,7 @@ weightless
 
 
 :: About [frame] {"position":"225,624","size":"100,100"}
-//Let Us Be Weightless// is an interactive short story. What you have in front of you is part one, which was first conceived in response to the //Material Conditions 1// small art challenge, launched by salt.codes and supported by the Immersive Realities Labs for the humanities (irlHumanities). <br>
+//Let Us Be Weightless// is truly an interactive short story. What you have in front of you is part one, which was first conceived in response to the //Material Conditions 1// small art challenge, launched by salt.codes and supported by the Immersive Realities Labs for the humanities (irlHumanities). <br>
 
 When I received my crowdsourced creation prompt, I was in the middle of teaching my //Deep Time: Memory, Media, and Ecological Imagination in the Americas// course. My prompt inspired me to rethink what we know about modern technological formations, particularly given my course's emphasis on identifying and attending to the diverse ecologics of people of color in the Americas. <br>
 
@@ -67,7 +67,7 @@ Your stomach [[reacts first->Walk]]. //Please let this be it//. You grab your ba
 <div class="text-tt">
 Your speed has paid off. As the clouds gather, you remove your rolled [[rushmat]] and large collapsible umbrella from the tubular carrier slung across your shoulders. Around the edges, you have carefully sewn bits of fabric.<br>
 
-Gently lowering yourself to the ground, you have ample time now to raise your umbrella and [[whet]] your throat. You sit quietly, gathering your thoughts and watching the clouds tumble slowly onto the horizon.</div>
+Gently lowering yourself to the sand, you have ample time now to raise your umbrella and [[whet]] your throat. You sit quietly, gathering your thoughts and watching the clouds tumble slowly onto the horizon.</div>
 
 
 :: Beachdance [office2] {"position":"537,897","size":"200,200"}
@@ -84,7 +84,7 @@ It was [[mesmerizing]].
 
 
 :: Bel-glance [brother memory programming] {"position":"1000,429","size":"100,200"}
-+ 3 diff reveal text intros - so:
++ 3 diff reveal text intros - so: (this is effectiv) 
 
 if in car then startle glance
 if running then pace reminds you of
@@ -107,7 +107,7 @@ A trance-like state that follows a telling.
 :: FROGGER [office] {"position":"466,402","size":"100,100"}
 <div class="grid-container">
 <div class="item2">
-You feel good about your decision. //Why fight it?// you think, hopping along. With each resourceful leap, you grow more impressed with your committment to lilypads.<br>
+ok then we try this... You feel good about your decision. //Why fight it?// you think, hopping along. With each resourceful leap, you grow more impressed with your committment to lilypads.<br>
 Your appetite rises. //Froggin ain't easy//, you think, as you grab a powerbar from your precious office snack stash. Taking a bite, your eyes briefly land on the bar's bluegreen surface, the pale yellowish gray sesame seeds looking like tiny tadpoles darting off on a great adventure.<br>
 <<include "frogger-work-phone">>
 
@@ -215,7 +215,7 @@ A few notes:
 <li>This narrative is best explored on a computer or tablet</li>
 <li>If you click the arrow in the upper left corner, a sidebar menu opens. Use this menu to save your progress, if you would like to start and stop your reading.</li>
 <li>You should keep the sidebar menu closed while experiencing this project.</li>
-</ul><br>
+Quiet. </ul><br>
 <<return>>
 
 
@@ -305,7 +305,7 @@ Double-click this passage to edit it.
 
 
 :: StoryTitle {"position":"97,100","size":"100,100"}
--Weightless-
+-Weightless-*but ok
 
 
 :: Taxi [transit] {"position":"1199,26","size":"100,100"}
