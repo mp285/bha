@@ -20,6 +20,6 @@ jobs:
         run: |
           go get github.com/tmedwards/tweego
           export PATH=$PATH:$(go env GOPATH)/bin
-          tweego weightless.twee -o dist/index.html
+          tweego weightless.twee -o index.html
 
       -
