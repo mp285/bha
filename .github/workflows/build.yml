@@ -20,11 +20,11 @@ jobs:
         run: |
           go get github.com/tmedwards/tweego
           export PATH=$PATH:$(go env GOPATH)/bin
-          tweego weightless.twee -o pretty-print/index.html
+          tweego weightless.twee -o index.html
           
-      - name: Deploy to Pages
+     - name: Deploy to Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: pretty-print
-          publish_dir: /
+          publish_branch: pretty
+          publish_dir: ./
