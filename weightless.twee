@@ -107,7 +107,7 @@ A trance-like state that follows a telling.
 :: FROGGER [office] {"position":"466,402","size":"100,100"}
 <div class="grid-container">
 <div class="item2">
-You feel good about your decision. //Why fight it?// you think, hopping along. With each resourceful leap, you grow more impressed with your committment to lilypads.<br>
+ok then we try this... You feel good about your decision. //Why fight it?// you think, hopping along. With each resourceful leap, you grow more impressed with your committment to lilypads.<br>
 Your appetite rises. //Froggin ain't easy//, you think, as you grab a powerbar from your precious office snack stash. Taking a bite, your eyes briefly land on the bar's bluegreen surface, the pale yellowish gray sesame seeds looking like tiny tadpoles darting off on a great adventure.<br>
 <<include "frogger-work-phone">>
 
