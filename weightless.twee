@@ -305,10 +305,6 @@ Weightless
 Double-click this passage to edit it.
 
 
-:: StoryTitle {"position":"97,100","size":"100,100"}
--Weightless-*but ok
-
-
 :: Taxi [transit] {"position":"1199,26","size":"100,100"}
 <div class="text-tt-dark">Settling into the vehicle's backseat, you immediately know you made the right choice. As you look out the window, you are convinced that people out on the streets all seem a little more buoyant, moving with more ease as they leave their jobs, close their shops, or otherwise get moving. 
 <br>
