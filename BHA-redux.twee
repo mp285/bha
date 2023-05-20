@@ -16,7 +16,33 @@ Black Haunts in the Anthropocene (redux)
   "zoom": 0.6
 }
 
+:: landing_page
+config.style.googleFont: '<link href="https://fonts.googleapis.com/css2?family=Arimo&family=Megrim&family=Raleway&display=swap" rel="stylesheet">'
+config.style.page.font: 'Megrim/Raleway/Arimo/Arial/sans serif'
+_chosen: random.d6
+--
 
+<body>
+<div class="lcontainer">
+<div class="title">BLACK HAUNTS IN THE ANTHROPOCENE</div>
+<div class="author">Marisa Parham</div>
+<div class="button">[[See More]]</div>
+
+[if _chosen === 1]
+<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2023/04/MauryMetadata.png" style="height: auto; width: 100%;">
+[if _chosen === 2]
+<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/baby-suggs.jpg" style="height: auto; width: 100%;">
+[if _chosen === 3]
+<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/FLrapture.png" style="height: auto; width: 100%;">
+[if _chosen === 4]
+<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/map.gif" style="height: auto; width: 100%;">
+[if _chosen === 5]
+<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/KoS.jpg" style="height: auto; width: 100%;">
+[if _chosen === 6]
+<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/flyinglotusvid_0210141.jpg" style="height: auto; width: 100%;">
+</div>
+
+</body>
 :: \ Now reset to 0\  [about] {"position":"500,100","size":"100,100"}
 
   
