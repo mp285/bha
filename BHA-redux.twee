@@ -1,5 +1,5 @@
 :: StoryTitle
-Black Haunts in the Anthropocene (redux)
+BHA (redux)
 
 
 :: StoryData
@@ -24,8 +24,8 @@ _chosen: random.d6
 --
 
 <div class="lcontainer">
-<div class="title">BLACK HAUNTS IN THE ANTHROPOCENE</div>
-<div class="author">Marisa Parham</div>
+<div class="title">BHA</div>
+<div class="author">MP</div>
 <div class="button">[[See More]]</div>
 
 [if _chosen === 1]
@@ -471,13 +471,13 @@ h1 {
   color: #333333;
 }
 
-body {
+/* body {
     font-family: 'Helvetica','Arimo', sans-serif;
     font-size: 14px;
     line-height: 1.5;
     color: #333333;
     background-color: #fff;
-}
+} */
 
 .inText {
   display: inline-block !important;
