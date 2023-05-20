@@ -118,7 +118,7 @@ Affectively, an important element of  <i>Black Haunts in the Anthropocene</i> is
   
 
 
-:: Start [about] {"position":"300,300","size":"100,100"}
+:: Preamble [about] {"position":"300,300","size":"100,100"}
  
   
 <div class="lcontainer">
@@ -292,7 +292,7 @@ What does all of this mean for black people?
 
 
 
-:: landing_page {"position":"100,100","size":"100,100"}
+:: Start {"position":"100,100","size":"100,100"}
 config.style.googleFont: '<link href="https://fonts.googleapis.com/css2?family=Arimo&family=Megrim&family=Raleway&display=swap" rel="stylesheet">'
 config.style.page.font: 'Megrim/Raleway/Arimo/Arial/sans serif'
 _chosen: random.d6
