@@ -385,6 +385,17 @@ While writing text for <i>Black Haunts in the Anthropocene</i>, I have been stru
   height: auto;
 }
 
+p {
+font-family: 'Optima', serif;
+  color: black;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 18px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  }
+
+  
 .lcover {
   max-width: 100%;
   height: 200px;
