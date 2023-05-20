@@ -17,6 +17,7 @@ Black Haunts in the Anthropocene (redux)
 }
 
 :: landing_page
+
 config.style.googleFont: '<link href="https://fonts.googleapis.com/css2?family=Arimo&family=Megrim&family=Raleway&display=swap" rel="stylesheet">'
 config.style.page.font: 'Megrim/Raleway/Arimo/Arial/sans serif'
 _chosen: random.d6
@@ -127,11 +128,9 @@ Affectively, an important element of  <i>Black Haunts in the Anthropocene</i> is
   
   
 
-
-
 :: Mapping {"position":"700,300","size":"100,100"}
  
-  
+
 <div class="lcontainer" width="100%" height="200">
 <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Twitter-Ferguson1.jpg">
 </div>
@@ -245,12 +244,9 @@ The sibilance of the poem’s opening lines also thematically complicate subject
   
 
 
-
-
 :: blm_webkit [rail] {"position":"700,100","size":"100,100"}
 
 
-  
 <div class="lcontainer">
     <h2><center>#blacklivesmatter</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/flyinglotusvid_0210142.jpg" width="100%" height="200">
@@ -315,38 +311,6 @@ What does all of this mean for black people?
 
 
 :: here {"position":"300,500","size":"100,100"}
-
-
-
-:: Start {"position":"100,100","size":"100,100"}
-config.style.googleFont: '<link href="https://fonts.googleapis.com/css2?family=Arimo&family=Megrim&family=Raleway&display=swap" rel="stylesheet">'
-config.style.page.font: 'Megrim/Raleway/Arimo/Arial/sans serif'
-_chosen: random.d6
---
-
-  
-<div class="lcontainer">
-<div class="title">BLACK HAUNTS IN THE ANTHROPOCENE</div>
-<div class="author">Marisa Parham</div>
-<div class="button">[[See More]]</div>
-
-[if _chosen === 1]
-<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2023/04/MauryMetadata.png" style="height: auto; width: 100%;">
-[if _chosen === 2]
-<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/baby-suggs.jpg" style="height: auto; width: 100%;">
-[if _chosen === 3]
-<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/FLrapture.png" style="height: auto; width: 100%;">
-[if _chosen === 4]
-<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/map.gif" style="height: auto; width: 100%;">
-[if _chosen === 5]
-<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/KoS.jpg" style="height: auto; width: 100%;">
-[if _chosen === 6]
-<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/flyinglotusvid_0210141.jpg" style="height: auto; width: 100%;">
-</div>
-
-  
-
-
 
 
 :: the feed that hands you {"position":"1300,300","size":"100,100"}
